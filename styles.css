@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Andika&family=Bebas+Neue&family=Cinzel&family=Dancing+Script:wght@400;700&family=Montserrat:wght@500&family=Oswald:wght@500&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Rock+Salt&family=Shadows+Into+Light&family=Signika+Negative:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    /* background-color: #b2d8d8; */
+    background-image: url(https://img.freepik.com/free-vector/blurred-turquoise-background-design_1107-187.jpg?w=740&t=st=1690624847~exp=1690625447~hmac=284adb233362ea9990c1b25bf234fba001b4d36a0fe175d6ccac53ecd8596826);
+    background-size: cover;
+}
+.container{
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 1.5rem;
+    padding-top:1px;
+}
+
+
+
+
+  
